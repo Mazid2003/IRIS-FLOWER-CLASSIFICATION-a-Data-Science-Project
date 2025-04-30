@@ -1,1 +1,14 @@
+Flask==2.2.5
+numpy==1.24.3
+pandas==1.5.3
+scikit-learn==1.2.2
+joblib==1.2.0
+
+Optional (for development or visualization during model training):
+
+matplotlib==3.7.1
+seaborn==0.12.2
+jupyterlab==3.6.3
+
+pip install -r requirements.txt
 
