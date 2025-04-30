@@ -111,7 +111,7 @@ iris-classifier/
 
 ## 🛠️ How to Run
 
-```bash
+```
 
 git clone https://github.com/Mazid2003/IRIS-FLOWER-CLASSIFICATION-a-Data-Science-Project.git
 
@@ -120,4 +120,11 @@ cd Iris
 pip install -r requirements.txt
 
 python app.py
+
+```
+
+**📬 Contact**
+
+Created by Mohammad Mazid
+
 
