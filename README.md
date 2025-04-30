@@ -105,11 +105,14 @@ iris-classifier/
 ```
 ## 🖼️ Screenshots
 
-![Web Interface Screenshot](screenshots/interface.png)
+![screenshot_2025-04-30_09-32-05](https://github.com/user-attachments/assets/b54aa4e1-63f4-48ce-9923-bb5e46afe630)
+![screenshot_2025-04-30_09-33-30](https://github.com/user-attachments/assets/b384c72f-dbce-4a3c-a710-745b82e5412f)
+![screenshot_2025-04-30_09-32-58](https://github.com/user-attachments/assets/fbeefe98-ab7f-414f-bdfd-7d8b92693a39)
 
 ## 🛠️ How to Run
 
 ```bash
+
 git clone https://github.com/Mazid2003/IRIS-FLOWER-CLASSIFICATION-a-Data-Science-Project.git
 
 cd Iris
