@@ -123,10 +123,6 @@ python app.py
 
 ```
 
-**📬 Contact**
-
-Created by Mohammad Mazid
-
 **💬 Want to Collaborate?**
 
 Feel free to fork the repo, submit PRs, and give your feedback! 🔥💡
@@ -134,3 +130,9 @@ Feel free to fork the repo, submit PRs, and give your feedback! 🔥💡
 **📜 License**
 
 This project is open-source under the MIT License. Feel free to use and modify it! 🚀
+
+**📬 Contact**
+
+Created by Mohammad Mazid<br>
+Email:mazidmd750@gmail.com<br>
+Linkedin: https://www.linkedin.com/in/mohammadmazid
